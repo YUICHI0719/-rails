@@ -1,0 +1,1 @@
+export RAILS_SERVE_STATIC_FILES=kanno7yuuichi
