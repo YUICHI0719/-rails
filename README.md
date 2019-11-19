@@ -1,24 +1,13 @@
-# README
+# タスク管理アプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+これは「現場で使えるRuby on Rails 5 速習実践ガイド」を参考にして作成したアプリです。
 
-Things you may want to cover:
+以下、搭載機能について。
 
-* Ruby version
+* タスク登録、編集、削除、詳細閲覧機能
 
-* System dependencies
+* ログイン、ログアウト機能
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* RSpecによる自動テスト搭載
 
 * ...
